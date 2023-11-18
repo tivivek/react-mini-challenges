@@ -1,0 +1,88 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.movies-container p {
+  height: 10px;
+}
+
+.content {
+  display: flex;
+  gap: 2rem;
+}
+
+/* section {
+  display: flex;
+  flex-direction: column;
+  color: black;
+} */
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* flex-direction: column; */
+}
+
+.input-container {
+  display: flex;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+/* 
+ul button {
+  .content {
+    display: flex;
+    gap: 2rem;
+  }
+  
+  section {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* flex-direction: column; */
+/* } */
+
+.input-container {
+  display: flex;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+ul button {
+  margin: 10px;
+}
+*/
+
+/* GOT CSS*/
+.button-container {
+  margin: 1rem;
+}
+
+.people-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.people-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 13rem;
+  width: 17rem;
+  border: 2px solid gray;
+  border-radius: 10px;
+  background-color: rgb(123, 175, 220);
+}
